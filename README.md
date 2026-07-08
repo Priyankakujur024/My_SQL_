@@ -31,5 +31,3 @@ Welcome to my Data Analytics Portfolio! I am an enthusiastic and detail-oriented
 ## 📬 Connect with Me
 - **Email:** Priyanka.kujur024@gmail.com
 - **Location:** Khunti, Jharkhand, India
-# My_SQL_
-Contains my data analytics projects, SQL queries, and interactive dashboards developed using Excel and Power BI.
